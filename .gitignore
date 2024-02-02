@@ -1,0 +1,3 @@
+# Ignore file for RESTful-api-starter project
+/node_modules
+.env
